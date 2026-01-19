@@ -1,7 +1,7 @@
 {
-  "name": "web-playwright-gov-tech-tests",
+  "name": "web-api-playwright-gov-tech-tests",
   "version": "1.0.0",
-  "description": "Test automation framework to test WEB using playwright",
+  "description": "Test automation framework to test WEB & API using playwright",
   "main": "index.js",
   "scripts": {
     "test:api": "npx playwright test api-tests/tests/ --reporter=html --headed",
